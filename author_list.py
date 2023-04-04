@@ -129,7 +129,7 @@ authors = [
 {'name': 'A.~Takey', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ali.takey@nriag.sci.eg'},
 {'name': 'Y.~Tillayev', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan', 'National University of Uzbekistan, 4 University str., Tashkent 100174, Uzbekistan'], 'email': 'yusuf@ASTRIN.UZ'},
 {'name': 'L.~M.~Tinjaca Ramirez', 'affiliations': ['Montarrenti Observatory, S. S. 73 Ponente, I-53018 Sovicille, Siena, Italy'], 'email': ''},
-{'name': 'I.~Tosta~e~Melo', 'affiliations': ['INFN, Laboratori Nazionali del Sud, I-95125 Catania, Italy'], 'email': 'itostaemelo@UNISS.IT'},
+{'name': 'I.~Tosta~e~Melo', 'affiliations': ['Department of Physics and Astronomy, University of Catania, I-95125 Catania, Italy'], 'email': 'iara.tosta.melo@dfa.unict.it'},
 {'name': 'D.~Turpin', 'affiliations': ["Universit\\'e Paris-Saclay, Universit\\'e Paris Cit\\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"], 'email': 'damien.turpin@CEA.FR'},
 {'name': 'A.~de~Ugarte~Postigo', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'adeugartepostigo@GMAIL.COM'},
 {'name': 'S.~Vanaverbeke', 'affiliations': ["AstroLAB IRIS, Provinciaal Domein ``De Palingbeek'', Verbrandemolenstraat 5, 8902 Zillebeke, Ieper, Belgium", "Vereniging Voor Sterrenkunde (VVS), Oostmeers 122 C, 8000 Brugge, Belgium"], 'email': ''},
